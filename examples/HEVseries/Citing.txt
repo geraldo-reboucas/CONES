@@ -1,20 +1,10 @@
-If your research is inspired by the Matlab code provided in this
-example, please include at least one of the following entries in
-your bibliography.
+If your research is inspired by the Matlab code provided in this example, please include at least one of the following entries in your bibliography.
 
-[1] N. Murgovski, L. Johannesson, J. Sjöberg and B. Egardt.
-Component sizing of a plug-in hybrid electric powertrain via convex
-optimization. Journal of Mechatronics, 22(1):106-120, 2012.
+[1] N. Murgovski, L. Johannesson, J. Sjöberg and B. Egardt. Component sizing of a plug-in hybrid electric powertrain via convex optimization. Journal of Mechatronics, 22(1):106-120, 2012.
 
-[2] N. Murgovski, L. Johannesson, A. Grauers and J. Sjöberg.
-Dimensioning and control of a thermally constrained double buffer
-plug-in HEV powertrain. In 51st IEEE Conference on Decision and
-Control, Maui, Hawaii, 2012.
+[2] N. Murgovski, L. Johannesson, A. Grauers and J. Sjöberg. Dimensioning and control of a thermally constrained double buffer plug-in HEV powertrain. In 51st IEEE Conference on Decision and Control, Maui, Hawaii, 2012.
 
-[3] X. Hu, N. Murgovski, L. Johannesson and B. Egardt. Energy
-efficiency analysis of a series plug-in hybrid electric bus with
-different energy management strategies and battery sizes. Applied
-Energy, 111:1001-1009, 2013.
+[3] X. Hu, N. Murgovski, L. Johannesson and B. Egardt. Energy efficiency analysis of a series plug-in hybrid electric bus with different energy management strategies and battery sizes. Applied Energy, 111:1001-1009, 2013.
 
 The corresponding BibTeX citations are:
 

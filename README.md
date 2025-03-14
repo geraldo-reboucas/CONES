@@ -8,7 +8,8 @@ A tutorial describing the convex modeling steps is not (yet) included. Instead, 
 Instructions for further reading is provided in the folders where examples are saved. 
 In order to be able to run examples in Matlab, please follow the following steps:
 1. Instal CVX, Matlab software for disciplined convex programming. The examples have been tested with CVX provided within this package, CVX redistributable, v2.1, and solver SeDuMi. We strongly recommend using this version of CVX for getting accustomed to the examples. Further information about CVX, e.g. licensing, manual, latest version, can be found at http://cvxr.com/cvx.
-2. Go to one of the folders where examples are saved, and execute in Matlab the file starting with "start...". The following examples are currently available:
+2. Go to one of the folders where examples are saved, and execute in Matlab the file starting with "start...".
+The following examples are currently available:
 a) CONVveh: Energy management of a conventional vehicle. Gear is decided by heuristics. This example does not require optimization and its purpose is only to be used as a benchmark solution. 
 b) FCHV: Combined design and energy management of a fuel cell hybrid vehicle (FCHV), with a supercapacitor as an energy buffer. This example provides the optimal energy management of the vehicle and the optimal sizes of supercapacitor and fuel cell system of a hybrid city bus.
 c) FCHVbatterySOH: Combined optimization of fuel cell and battery sizing, and power-split control of a fuel cell hybrid bus, subject to a battery state of health (SOH) model. The battery health is a c-rate-weighted Ah-throughput model.

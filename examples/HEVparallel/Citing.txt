@@ -1,14 +1,8 @@
-If your research is inspired by the Matlab code provided in this
-example, please include at least one of the following entries in
-your bibliography.
+If your research is inspired by the Matlab code provided in this example, please include at least one of the following entries in your bibliography.
 
-[1] N. Murgovski, L. Johannesson, J. Sjöberg and B. Egardt.
-Component sizing of a plug-in hybrid electric powertrain via convex
-optimization. Mechatronics, 22(1):106-120, 2012.
+[1] N. Murgovski, L. Johannesson, J. Sjöberg and B. Egardt. Component sizing of a plug-in hybrid electric powertrain via convex optimization. Mechatronics, 22(1):106-120, 2012.
 
-[2] M. Pourabdollah, N. Murgovski, A. Grauers and B. Egardt.
-Optimal sizing of a parallel PHEV powertrain. IEEE Transactions on
-Vehicular Technology, 62(6):2469-2480, 2013.
+[2] M. Pourabdollah, N. Murgovski, A. Grauers and B. Egardt. Optimal sizing of a parallel PHEV powertrain. IEEE Transactions on Vehicular Technology, 62(6):2469-2480, 2013.
 
 The corresponding BibTeX citations are:
 

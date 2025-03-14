@@ -1,9 +1,6 @@
-If your research is inspired by the Matlab code provided in this
-example, please include the following entry in your bibliography.
+If your research is inspired by the Matlab code provided in this example, please include the following entry in your bibliography.
 
-[1] N. Murgovski, X. Hu, L. Johannesson, B. Egardt. Combined design and 
-control optimization of hybrid vehicles. Handbook of Clean Energy Systems, 
-1-14, 2015.
+[1] N. Murgovski, X. Hu, L. Johannesson, B. Egardt. Combined design and control optimization of hybrid vehicles. Handbook of Clean Energy Systems, 1-14, 2015.
 
 The corresponding BibTeX citation is:
 

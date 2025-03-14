@@ -1,23 +1,12 @@
-If your research is inspired by the methods and Matlab code
-provided in these examples, please show appreciation by citing some
-of our articles. For a basic overview on the convex optimization
-framework in electromobility studies, a suitable reference is:
+If your research is inspired by the methods and Matlab code provided in these examples, please show appreciation by citing some of our articles. For a basic overview on the convex optimization framework in electromobility studies, a suitable reference is:
 
-[1] B. Egardt, N. Murgovski, M. Pourabdollah, and L. Johannesson.
-Electromobility studies based on convex optimization: Design and
-control issues regarding vehicle electrification. IEEE Control
-Systems Magazine, 34(2):32-49, 2014.
+[1] B. Egardt, N. Murgovski, M. Pourabdollah, and L. Johannesson. Electromobility studies based on convex optimization: Design and control issues regarding vehicle electrification. IEEE Control Systems Magazine, 34(2):32-49, 2014.
 
-If your research interest specifically relates to some of the
-examples, then follow the instructions for further references
-provided in the folders where examples are saved.
+If your research interest specifically relates to some of the examples, then follow the instructions for further references provided in the folders where examples are saved.
 
-Finally, if you find these examples useful and if you would like
-more examples to be published, please keep me motivated by citing:
+Finally, if you find these examples useful and if you would like more examples to be published, please keep me motivated by citing:
 
-[2] N. Murgovski. CONES: Matlab code for convex optimization in
-electromobility studies. https://publications.lib.chalmers.se/publication/192858,
-January 2014.
+[2] N. Murgovski. CONES: Matlab code for convex optimization in electromobility studies. https://publications.lib.chalmers.se/publication/192858, January 2014.
 
 The corresponding BibTeX citations are:
 

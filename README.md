@@ -2,7 +2,9 @@
 CONES: Matlab code for convex optimization in electromobility studies
 =====================================================================
 This repository includes examples for powertrain design and energy management of electrified vehicles. 
+
 A tutorial describing the convex modeling steps is not (yet) included. Instead, readers are referred to the following article which gives basic overview on the convex modeling and the optimization framework.
+
 [1] B. Egardt, N. Murgovski, M. Pourabdollah, and L. Johannesson. Electromobility studies based on convex optimization: Design and control issues regarding vehicle electrification. IEEE Control Systems Magazine, 34(2):32-49, 2014.
 
 Instructions for further reading is provided in the folders where examples are saved. 
@@ -18,6 +20,7 @@ The following examples are currently available:
 5. HEVseries: Combined optimization of engine generator unit (EGU) and battery sizing, and power-split control of a hybrid electric vehicle in a series powertrain configuration. The engine on/off state is decided by heuristics, where the engine is turned on when demanded power of the baseline vehicle exceeds a certain threshold.
 
 =====================================================================
+
 Created by Nikolce Murgovski, 2014-02-09. 
 Modified by Nikolce Murgovski, 2015-11-06.
 
